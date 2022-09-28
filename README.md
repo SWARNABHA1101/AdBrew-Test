@@ -15,7 +15,7 @@ We highly recommend you go through the setup in `Dockerfile` and `docker-compose
 # Setup
 1. Clone this repository
 ```
-git clone https://github.com/ayushchd/adb_test.git
+git clone https://github.com/SWARNABHA1101/AdBrew-Test.git
 ```
 2. Change into the cloned directory and set the environment variable for the code path. Replace `path_to_repository` appropriately.
 ```
